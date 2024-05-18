@@ -39,7 +39,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/73131</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/001184845</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">Endnotes in the source were split into explanatory notes (numbered) and verse translations (lettered). In this production they’ve been reordered into a single list to fit the text order. This also meant that in one case (note 14) two previous endnotes have been joined into one.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Kusamakura</meta>
