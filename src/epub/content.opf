@@ -39,9 +39,10 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">An artist and poet leaves the city to look for a new perspective for his work.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Walking along a mountain path towards a remote hot springs hotel, our unnamed protagonist muses on his theory of unhumanity and his hopes that that will break him out of his creative block. On arrival, the town itself has plenty of unhumanity on display, but while poems on those subjects spring easily to mind, painting still eludes him. Will the mysterious Nami-san, the daughter of the hotel owner, be the catalyst that unlocks that frustratingly unavailable area?&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/natsume-soseki"&gt;Natsume Sōseki&lt;/a&gt; was already a household name in Japan after his previous novels &lt;i&gt;I Am a Cat&lt;/i&gt; and &lt;i&gt;Botchan&lt;/i&gt;, but it was the success of &lt;i lang="ja-Latn"&gt;Kusamakura&lt;/i&gt; that allowed him to give up his role as a professor of English literature at Tokyo Imperial University to focus on writing. &lt;i lang="ja-Latn"&gt;Kusamakura&lt;/i&gt; translates to English directly as “grass pillow,” which for the Japanese reader has a connotation of a poetic wandering; for this edition Takahashi Kazutomo added the subtitle “Unhuman Tour” to bring the same feeling to the translation.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/73131</dc:source>
