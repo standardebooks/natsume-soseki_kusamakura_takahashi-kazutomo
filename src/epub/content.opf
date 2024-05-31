@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/natsume-soseki/kusamakura/takahashi-kazutomo</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-05-31T16:43:15Z</dc:date>
+		<meta property="dcterms:modified">2024-05-31T16:43:15Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -39,17 +39,17 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">An artist and poet leaves the city to look for a new perspective for his work.</dc:description>
+		<dc:description id="description">An artist and poet leaves the city to look for a new perspective on his work.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Walking along a mountain path towards a remote hot springs hotel, our unnamed protagonist muses on his theory of unhumanity and his hopes that that will break him out of his creative block. On arrival, the town itself has plenty of unhumanity on display, but while poems on those subjects spring easily to mind, painting still eludes him. Will the mysterious Nami-san, the daughter of the hotel owner, be the catalyst that unlocks that frustratingly unavailable area?&lt;/p&gt;
+			&lt;p&gt;Walking along a mountain path towards a remote hot springs hotel, our unnamed protagonist muses on his theory of “unhumanity” and his hopes that it will break him out of his creative block. On arrival, the town itself has plenty of unhumanity on display, but while poems on those subjects spring easily to mind, painting still eludes him. Will the mysterious Nami-san, the daughter of the hotel owner, be the catalyst that unlocks that frustratingly out-of-reach art?&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/natsume-soseki"&gt;Natsume Sōseki&lt;/a&gt; was already a household name in Japan after his previous novels &lt;i&gt;I Am a Cat&lt;/i&gt; and &lt;i&gt;Botchan&lt;/i&gt;, but it was the success of &lt;i lang="ja-Latn"&gt;Kusamakura&lt;/i&gt; that allowed him to give up his role as a professor of English literature at Tokyo Imperial University to focus on writing. &lt;i lang="ja-Latn"&gt;Kusamakura&lt;/i&gt; translates to English directly as “grass pillow,” which for the Japanese reader has a connotation of a poetic wandering; for this edition Takahashi Kazutomo added the subtitle “Unhuman Tour” to bring the same feeling to the translation.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/73131</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/001184845</dc:source>
 		<meta property="se:production-notes">Endnotes in the source were split into explanatory notes (numbered) and verse translations (lettered). In this production they’ve been reordered into a single list to fit the text order. This also meant that in one case (note 14) two previous endnotes have been joined into one.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">39123</meta>
+		<meta property="se:reading-ease.flesch">70.73</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Kusamakura_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/natsume-soseki_kusamakura_takahashi-kazutomo</meta>
 		<dc:creator id="author">Natsume Sōseki</dc:creator>
