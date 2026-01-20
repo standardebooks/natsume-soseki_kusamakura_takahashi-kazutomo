@@ -49,7 +49,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/73131</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/001184845</dc:source>
 		<meta property="se:production-notes">Endnotes in the source were split into explanatory notes (numbered) and verse translations (lettered). In this production they’ve been reordered into a single list to fit the text order. This also meant that in one case (note 14) two previous endnotes have been joined into one.</meta>
-		<meta property="se:word-count">39123</meta>
+		<meta property="se:word-count">38942</meta>
 		<meta property="se:reading-ease.flesch">70.73</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Kusamakura_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/natsume-soseki_kusamakura_takahashi-kazutomo</meta>
