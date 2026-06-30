@@ -1,0 +1,1 @@
+Endnotes in the source were split into explanatory notes (numbered) and verse translations (lettered). In this production they’ve been reordered into a single list to fit the text order. This also meant that in one case (note 14) two previous endnotes have been joined into one.
